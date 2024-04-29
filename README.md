@@ -10,17 +10,18 @@ The Gemini Question-Answer Pair Generator is a Python-based tool that leverages 
 <b>Scalable:<b> Generate large volumes of QA pairs efficiently.<br>
 
 <h3>Installation</h3>
-1. Clone the repository:
+1. Clone the repository: <br>
 ```bash
 https://github.com/Bikas0/Questions-Answers-Pair-Generations-using-GenAI.git
 ```
 2. Install dependencies:
-Create Virtual environment
+Create Virtual environment<br>
 ```bash
 # Python 3.10.14
 conda create -n QA python=3.10.14
 conda activate QA
 ```
+
 ```bash
 pip install -r requirements.txt
 ```
